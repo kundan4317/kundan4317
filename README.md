@@ -1,7 +1,7 @@
 ## Hi I m Kundan 👋
-🌱 I’m currently learning Spring boot
-👯 I’m looking to collaborate on java and spring boot related projects
-📫 How to reach me @kundan4317@gmail.com
+- 🌱 I’m currently learning Spring boot
+- 👯 I’m looking to collaborate on java and spring boot related projects
+- 📫 How to reach me @kundan4317@gmail.com
 
 
 <!--
